@@ -1,0 +1,15 @@
+{
+  "name": "quiz-assignment",
+  "version": "1.0.0",
+  "description": "Express tut",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anointed Emecheta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.4"
+  }
+}
